@@ -1,0 +1,6 @@
+# ignoring sql files created for test purposes
+dropall.sql
+values.sql
+
+# ignore pyc file
+tournament.pyc
